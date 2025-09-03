@@ -12,7 +12,7 @@ I am detail-oriented, strategic, creative, and highly collaborative. These quali
 ## 🔍Core Competences  
 - Data Analysis: Analyze complex datasets (within any industry) to identify trends and patterns.
 - Machine Learning: Apply machine learning techniques using Python and relevant libraries.
-- Data Visualization: Create insightful visualizations using Tableau and Power BI.
+- Data Visualization: Create insightful visualizations using Looker Studio,Tableau and Power BI.
 - SQL & Database Management: Query and manage data across various database systems with SQL.
 
 ## ⚙️ Tech Stack  
