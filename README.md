@@ -22,13 +22,13 @@ I am detail-oriented, strategic, creative, and highly collaborative. These quali
 
 
 ## 🚀 Featured Projects  
-- 📊 [[Customer Purchase Prediction (Bank MarketingCampaign)](https://shorturl.at/cXRHB)](#)
+- 📊 [[Customer Purchase Prediction (Bank MarketingCampaign)](https://github.com/Abiola97/All-Projects/tree/main/Python%20Projects/Bank%20Marketing)](#)
 - Description: A Predictive ML models with a 97% accuracy that enabled precise targeting of 478 leads
 - 🌱 [[ Early Diabetes Prediction Model (PIMA Indian Dataset)](https://github.com/Abiola97/ajaoabiola0812/tree/main/Python%20Projects/Diabetes%20Early%20Predictor)](#)
 - Description: A logistic regression model with 81% accuracy for early diabetes prediction
-- 📊 [[Awesome Chocolates Sales Performance Report ](https://app.powerbi.com/groups/me/reports/85b523a5-f5ba-45a0-8ba8-760e649cf741/b4d994c8eac9034ef26a?experience=power-bi)](#)
+- 📊 [[Awesome Chocolates Sales Performance Report ](https://github.com/Abiola97/All-Projects/blob/main/Power%20BI%20projects/SALES%20KPI%20DASHBOARD/README.md)](#)
 - Description: A PowerBI KPI Dashbaord that tracks sales team performance in real time
-- 📊 [[XYZ Venture Revenue Analysis )](https://lookerstudio.google.com/reporting/f0244536-665e-4aeb-9176-a4cbe8c93813)](#)
+- 📊 [[XYZ Venture Revenue Analysis )](https://github.com/Abiola97/All-Projects/tree/main/Looker%20Studio%20Reports/%20XYZ%20Venture%20Performance%20Analysis)](#)
 - Description: A Looker studio KPI Dashboard that analyzed revenue data & tarck product performance of MABLE Venture
 
 
