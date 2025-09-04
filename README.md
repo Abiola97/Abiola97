@@ -29,7 +29,7 @@ I am detail-oriented, strategic, creative, and highly collaborative. These quali
 - 📊 [[Awesome Chocolates Sales Performance Report ](https://github.com/Abiola97/All-Projects/blob/main/Power%20BI%20projects/SALES%20KPI%20DASHBOARD/README.md)](#)
 - Description: A PowerBI KPI Dashbaord that tracks sales team performance in real time
 - 📊 [[XYZ Venture Revenue Analysis )](https://github.com/Abiola97/All-Projects/tree/main/Looker%20Studio%20Reports/%20XYZ%20Venture%20Performance%20Analysis)](#)
-- Description: A Looker studio KPI Dashboard that analyzed revenue data & tarck product performance of MABLE Venture
+- Description: A Looker studio KPI Dashboard that analyzed revenue data & tarck product performance of XYZ Venture
 
 
   
