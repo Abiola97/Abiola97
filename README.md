@@ -28,7 +28,7 @@ I am detail-oriented, strategic, creative, and highly collaborative. These quali
 - Description: A logistic regression model with 81% accuracy for early diabetes prediction
 - 📊 [[Awesome Chocolates Sales Performance Report ](https://shorturl.at/tOGGw)](#)
 - Description: A PowerBI KPI Dashbaord that tracks sales team performance in real time
-- 📊 [[XYZ Venture Revenue Analysis )](https://shorturl.at/fLnxu)](#)
+- 📊 [[XYZ Venture Revenue Analysis )](https://lookerstudio.google.com/reporting/f0244536-665e-4aeb-9176-a4cbe8c93813)](#)
 - Description: A Looker studio KPI Dashboard that analyzed revenue data & tarck product performance of MABLE Venture
 
 
